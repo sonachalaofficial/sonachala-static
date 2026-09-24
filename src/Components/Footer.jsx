@@ -89,7 +89,7 @@ const Footer = () => {
             <div style={{ width: "50px", borderBottom: "2px dashed #fff", marginBottom: "15px" }}></div>
 
             <p style={{ fontSize: "14px", marginBottom: "8px" }}>
-              Sonachala Technologies
+              Sonachala Hospitality Private Limited
             </p>
 
             <p style={{ fontSize: "14px", marginBottom: "8px" }}>
@@ -118,19 +118,19 @@ const Footer = () => {
             {/* Emails */}
             <p style={{ fontSize: "14px", marginBottom: "8px" }}>
               ✉ <a href="mailto:sonachaloffical@gmail.com" style={{ color: "#fff", textDecoration: "none" }}>
-                sonachaloffical@gmail.com
+              support@sonachala.com
               </a>
             </p>
 
             <p style={{ fontSize: "14px", marginBottom: "8px" }}>
               ✉ <a href="mailto:sonachalahelp@gmail.com" style={{ color: "#fff", textDecoration: "none" }}>
-                sonachalahelp@gmail.com
+                jayakrishnan@sonachala.com
               </a>
             </p>
 
             <p style={{ fontSize: "14px", marginBottom: "8px" }}>
               ✉ <a href="mailto:info@sonachala.com" style={{ color: "#fff", textDecoration: "none" }}>
-                info@sonachala.com
+                ramakrishnan@sonachala.com
               </a>
             </p>
           </div>
